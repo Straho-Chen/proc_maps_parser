@@ -1,0 +1,14 @@
+[
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I/root/dummyFS/denpendencies/proc_maps_parser/include",
+            "-o",
+            "/root/dummyFS/denpendencies/proc_maps_parser/build/pmparser.o",
+            "pmparser.c"
+        ],
+        "directory": "/root/dummyFS/denpendencies/proc_maps_parser",
+        "file": "pmparser.c"
+    }
+]

@@ -15,3 +15,5 @@ pmparser:
 examples: pmparser
 	make -C $(SRC_DIR)/examples
 
+clean:
+	rm -rf build
